@@ -1,7 +1,7 @@
 FROM python:alpine
 
-LABEL description="ElastAlert suitable for Kubernetes and Helm"
-LABEL maintainer="Jason Ertel (jertel at codesim.com)"
+LABEL description="ElastAlert For SIRP"
+LABEL maintainer="manhtuong (vimanhtuong585 dot gmail)"
 
 ARG ELASTALERT_VERSION=0.2.4
 
